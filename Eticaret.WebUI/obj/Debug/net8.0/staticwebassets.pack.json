@@ -1,0 +1,785 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Eticaret.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Eticaret.WebUI.y40367thn8.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\110000021478281.jpg",
+      "PackagePath": "staticwebassets\\Img\\110000021478281.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\110000073296799.jpg",
+      "PackagePath": "staticwebassets\\Img\\110000073296799.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\24e8449ba980244a37725d87ec53ec44.avif",
+      "PackagePath": "staticwebassets\\Img\\24e8449ba980244a37725d87ec53ec44.avif"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\CT0602-cam-tablo-poster-ev-dekor-duvar-kagt-glassium-krlmaz-cam-tablo-1.gif",
+      "PackagePath": "staticwebassets\\Img\\CT0602-cam-tablo-poster-ev-dekor-duvar-kagt-glassium-krlmaz-cam-tablo-1.gif"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\1_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\1_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\asus.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\asus.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\ayna-2.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\ayna-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\ayna-3.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\ayna-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\ayna-4.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\ayna-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\elektronik-3-k-ev-al.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\elektronik-3-k-ev-al.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\kampanya3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Categories\\kampanya3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\kulaklik.webp",
+      "PackagePath": "staticwebassets\\Img\\Categories\\kulaklik.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\masaustubilgisayar.png",
+      "PackagePath": "staticwebassets\\Img\\Categories\\masaustubilgisayar.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\monitor1.png",
+      "PackagePath": "staticwebassets\\Img\\Categories\\monitor1.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Categories\\yuzuk-top-bg.jpg",
+      "PackagePath": "staticwebassets\\Img\\Categories\\yuzuk-top-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Kategori-Banner-1920x1080px-TV.webp",
+      "PackagePath": "staticwebassets\\Img\\Kategori-Banner-1920x1080px-TV.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products110000073296799.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products110000073296799.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products1_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Img\\Products1_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\110000021478281.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\110000021478281.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\110000073296799.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\110000073296799.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\1_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\1_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\24e8449ba980244a37725d87ec53ec44.avif",
+      "PackagePath": "staticwebassets\\Img\\Products\\24e8449ba980244a37725d87ec53ec44.avif"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\CT0602-cam-tablo-poster-ev-dekor-duvar-kagt-glassium-krlmaz-cam-tablo-1.gif",
+      "PackagePath": "staticwebassets\\Img\\Products\\CT0602-cam-tablo-poster-ev-dekor-duvar-kagt-glassium-krlmaz-cam-tablo-1.gif"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\Kategori-Banner-1920x1080px-TV.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\Kategori-Banner-1920x1080px-TV.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\Productsproductskulaklik.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\Productsproductskulaklik.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\Productssony-ps5.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\Productssony-ps5.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\SUNNY-65-Frameless-UHD-4K-Tizen-TV-SN65FMN503.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\SUNNY-65-Frameless-UHD-4K-Tizen-TV-SN65FMN503.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\asus.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\asus.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\ayna-2.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\ayna-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\ayna-3.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\ayna-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\ayna-4.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\ayna-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\gaming beyaz oyuncu mouse.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\gaming beyaz oyuncu mouse.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\hayat-agaci-yagli-boya-kanvas-tablo-yatay-tablolar-15038-11-B.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\hayat-agaci-yagli-boya-kanvas-tablo-yatay-tablolar-15038-11-B.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\kanvas-modern-tuy.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\kanvas-modern-tuy.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\kanvas-tablo-kelebek-modelleri-cerceve-dd5-ee.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\kanvas-tablo-kelebek-modelleri-cerceve-dd5-ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\klavye.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\klavye.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\kulaklik.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\kulaklik.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\masaustubilgisayar.png",
+      "PackagePath": "staticwebassets\\Img\\Products\\masaustubilgisayar.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\masaustupc.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\masaustupc.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\monitor-2.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\monitor-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\monitor1.png",
+      "PackagePath": "staticwebassets\\Img\\Products\\monitor1.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\monstr.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\monstr.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\mouse 2.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\mouse 2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\mouse.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\mouse.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\oykonsolu2.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\oykonsolu2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\oyuncukoltugu.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\oyuncukoltugu.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\oyunkonsolaksesuar.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\oyunkonsolaksesuar.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\samsung-qe65s90catxtk-65-164-ekran-4k--00-411.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\samsung-qe65s90catxtk-65-164-ekran-4k--00-411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\ses-sistemleri.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\ses-sistemleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\sony-ps5.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\sony-ps5.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\xsr722 i7 4770 8gb ram.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\xsr722 i7 4770 8gb ram.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\yuzuk-1.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\yuzuk-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\yuzuk-2.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\yuzuk-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\yuzuk-3.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\yuzuk-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\yuzuk-4.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\yuzuk-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\yuzuk-5.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\yuzuk-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Products\\zen-pirlanta-logo.webp",
+      "PackagePath": "staticwebassets\\Img\\Products\\zen-pirlanta-logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsayna-2.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsayna-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsayna-3.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsayna-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsayna-4.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsayna-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsct0602-cam-tablo-poster-ev-dekor-duvar-kagt-glassium-krlmaz-cam-tablo-1.gif",
+      "PackagePath": "staticwebassets\\Img\\Productsct0602-cam-tablo-poster-ev-dekor-duvar-kagt-glassium-krlmaz-cam-tablo-1.gif"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productshayat-agaci-yagli-boya-kanvas-tablo-yatay-tablolar-15038-11-b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Productshayat-agaci-yagli-boya-kanvas-tablo-yatay-tablolar-15038-11-b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productskanvas-modern-tuy.webp",
+      "PackagePath": "staticwebassets\\Img\\Productskanvas-modern-tuy.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productskanvas-tablo-kelebek-modelleri-cerceve-dd5-ee.jpg",
+      "PackagePath": "staticwebassets\\Img\\Productskanvas-tablo-kelebek-modelleri-cerceve-dd5-ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsklavye.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsklavye.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productskulaklik.webp",
+      "PackagePath": "staticwebassets\\Img\\Productskulaklik.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsmasaustubilgisayar.png",
+      "PackagePath": "staticwebassets\\Img\\Productsmasaustubilgisayar.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsmonitor1.png",
+      "PackagePath": "staticwebassets\\Img\\Productsmonitor1.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsmonstr.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsmonstr.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsmouse 2.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsmouse 2.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsmouse.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsmouse.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsoyuncukoltugu.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsoyuncukoltugu.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsoyunkonsolaksesuar.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsoyunkonsolaksesuar.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsproductskulaklik.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsproductskulaklik.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsproductssony-ps5.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsproductssony-ps5.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productssamsung-qe65s90catxtk-65-164-ekran-4k--00-411.jpg",
+      "PackagePath": "staticwebassets\\Img\\Productssamsung-qe65s90catxtk-65-164-ekran-4k--00-411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsses-sistemleri.jpg",
+      "PackagePath": "staticwebassets\\Img\\Productsses-sistemleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productssony-ps5.webp",
+      "PackagePath": "staticwebassets\\Img\\Productssony-ps5.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productssunny-65-frameless-uhd-4k-tizen-tv-sn65fmn503.webp",
+      "PackagePath": "staticwebassets\\Img\\Productssunny-65-frameless-uhd-4k-tizen-tv-sn65fmn503.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsxsr722 i7 4770 8gb ram.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsxsr722 i7 4770 8gb ram.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Productsyuzuk-4.webp",
+      "PackagePath": "staticwebassets\\Img\\Productsyuzuk-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Slider\\kampanya4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\kampanya4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Slider\\slide1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Slider\\slide2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Slider\\slide3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Sliderslide2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Sliderslide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\Sliderslide3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Sliderslide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\acer-logo.svg",
+      "PackagePath": "staticwebassets\\Img\\acer-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\apple.jpg",
+      "PackagePath": "staticwebassets\\Img\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\asus.svg",
+      "PackagePath": "staticwebassets\\Img\\asus.svg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\casper-logo-lacivert.png",
+      "PackagePath": "staticwebassets\\Img\\casper-logo-lacivert.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\ece-yeni-logo.png",
+      "PackagePath": "staticwebassets\\Img\\ece-yeni-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\hayat-agaci-yagli-boya-kanvas-tablo-yatay-tablolar-15038-11-B.jpg",
+      "PackagePath": "staticwebassets\\Img\\hayat-agaci-yagli-boya-kanvas-tablo-yatay-tablolar-15038-11-B.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\kampanya1.jpg",
+      "PackagePath": "staticwebassets\\Img\\kampanya1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\kampanya2.jpg",
+      "PackagePath": "staticwebassets\\Img\\kampanya2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\kampanya3.jpg",
+      "PackagePath": "staticwebassets\\Img\\kampanya3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\kampanya4.jpg",
+      "PackagePath": "staticwebassets\\Img\\kampanya4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\kanvas-modern-tuy.webp",
+      "PackagePath": "staticwebassets\\Img\\kanvas-modern-tuy.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\kanvas-tablo-kelebek-modelleri-cerceve-dd5-ee.jpg",
+      "PackagePath": "staticwebassets\\Img\\kanvas-tablo-kelebek-modelleri-cerceve-dd5-ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\lenovo-logo-red.webp",
+      "PackagePath": "staticwebassets\\Img\\lenovo-logo-red.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\menu-beymengrup-v2.jpg",
+      "PackagePath": "staticwebassets\\Img\\menu-beymengrup-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\microsoft.png",
+      "PackagePath": "staticwebassets\\Img\\microsoft.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\monster.jpg",
+      "PackagePath": "staticwebassets\\Img\\monster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\pandora.jpg",
+      "PackagePath": "staticwebassets\\Img\\pandora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\samsung-qe65s90catxtk-65-164-ekran-4k--00-411.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-qe65s90catxtk-65-164-ekran-4k--00-411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\samsung_logo.png",
+      "PackagePath": "staticwebassets\\Img\\samsung_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\ses-sistemleri.jpg",
+      "PackagePath": "staticwebassets\\Img\\ses-sistemleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\slide2.jpg",
+      "PackagePath": "staticwebassets\\Img\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\sony-logo.svg",
+      "PackagePath": "staticwebassets\\Img\\sony-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\Img\\zen-pirlanta-logo.webp",
+      "PackagePath": "staticwebassets\\Img\\zen-pirlanta-logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\401.html",
+      "PackagePath": "staticwebassets\\admin\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\404.html",
+      "PackagePath": "staticwebassets\\admin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\500.html",
+      "PackagePath": "staticwebassets\\admin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\charts.html",
+      "PackagePath": "staticwebassets\\admin\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\login.html",
+      "PackagePath": "staticwebassets\\admin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\password.html",
+      "PackagePath": "staticwebassets\\admin\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\register.html",
+      "PackagePath": "staticwebassets\\admin\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\admin\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrtun\\source\\repos\\Eticaret\\Eticaret.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Eticaret.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Eticaret.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Eticaret.WebUI.props",
+      "PackagePath": "build\\Eticaret.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Eticaret.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\Eticaret.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Eticaret.WebUI.props",
+      "PackagePath": "buildTransitive\\Eticaret.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
